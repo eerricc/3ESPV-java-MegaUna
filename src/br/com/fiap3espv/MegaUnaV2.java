@@ -14,7 +14,7 @@ public class MegaUnaV2 {
     }
 
     public static void apresentarSaudacao() {
-        System.out.println("Bem vindo ao Mega Una!");
+        System.out.println("Bem vindo ao Mega Una 2!");
     }
 
     public static String coletarNome(Scanner sc) {

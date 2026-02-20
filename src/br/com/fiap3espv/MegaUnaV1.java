@@ -11,7 +11,7 @@ public class MegaUnaV1 {
         int tentativas = 5;
         String jogador;
 
-        System.out.println("Bem vindo ao Mega Una!");
+        System.out.println("Bem vindo ao Mega Una 1!");
 
         System.out.println("Qual é o seu nome? ");
         jogador = sc.next();
